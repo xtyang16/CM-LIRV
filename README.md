@@ -13,4 +13,4 @@ An Adaptive Tightly-coupled Motion Estimator for Multi-LiDAR, Multi-Camera, and 
 
 - [ ] Camera observation module
 
-- [ ] RTK module
+- [ ] RTK module (953131115@qq.com)
