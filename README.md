@@ -5,12 +5,12 @@ An Adaptive Tightly-coupled Motion Estimator for Multi-LiDAR, Multi-Camera, and 
 
 ## TODO list
 
-[ ] Continuous time modeling module
+-[ ] Continuous time modeling module
 
-[ ] IMU observation module
+-[ ] IMU observation module
 
-[ ] LiDAR observation module
+-[ ] LiDAR observation module
 
-[ ] Camera observation module
+-[ ] Camera observation module
 
-[ ] RTK module
+-[ ] RTK module
